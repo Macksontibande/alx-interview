@@ -4,6 +4,7 @@ A function def pascal_triangle(n): that returns a list of lists of integers
 representing the Pascal's triangle of n
 """
 
+
 def pascal_triangle(n):
     '''
     Function to find Pascal's Triangle integers
